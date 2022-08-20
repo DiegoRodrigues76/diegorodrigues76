@@ -1,5 +1,4 @@
-# Olá visitante! Eu sou Diego Rodrigues
-## sou estudante de Ciência da Computação pela CESAR School e seja bem-vindo(a) ao meu perfil no GitHub!
+# Olá visitante! Bem-vindo(a) ao meu GitHub! Eu me chamo Diego Rodrigues (vulgo "Sawyer") 💾
 
 ![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=diegorodrigues76&show_icons=true&theme=merko)
 
