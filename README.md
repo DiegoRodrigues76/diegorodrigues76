@@ -2,8 +2,6 @@
 
 ![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=diegorodrigues76&show_icons=true&theme=midnight-purple)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegorodrigues76&layout=demo)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Redes Sociais:
 
 [![Social](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://www.flowcode.com/page/diegohr_115)
