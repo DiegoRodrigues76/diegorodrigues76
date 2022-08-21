@@ -23,3 +23,5 @@
     <img align="center" alt="ubuntu_linux" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
     <img align="center" alt="debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
 <div/>
+
+![snake_eif](https://github.com/diegorodrigues76/diegorodrigues76/blob/output/github-contribution-grid-snake.svg)
