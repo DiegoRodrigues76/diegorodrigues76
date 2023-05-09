@@ -1,4 +1,4 @@
-# Olá visitante! Bem-vindo(a) ao meu GitHub! Eu me chamo Diego "Sawyer" 💾
+# Olá visitante! Bem-vindo(a) ao meu GitHub! Eu me chamo Diego Rodrigues (vulgo "Sawyer") 💾
 
 ![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=diegorodrigues76&show_icons=true&theme=midnight-purple)
 
@@ -8,12 +8,20 @@
     <img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
     <img align="center" alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </div>
+<br>
+
+## Frameworks:
+<div style="display: inline_block"><br/>
+    <img align="center" alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+</div>
+<br>
 
 ## Banco de Dados:
 <div style="display: inline_block"><br/>
     <img align="center" alt="" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     <img align="center" alt="mysql" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
-<div/>
+</div>
+<br>
 
 ## OS:
 <div style="display: inline_block"><br/>
@@ -23,5 +31,3 @@
     <img align="center" alt="ubuntu_linux" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
     <img align="center" alt="debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
 <div/>
-
-![snake_eif](https://github.com/diegorodrigues76/diegorodrigues76/blob/output/github-contribution-grid-snake.svg)
