@@ -1,4 +1,4 @@
-# Olá visitante! Bem-vindo(a) ao meu GitHub! Eu me chamo Diego H. R. Sawyer 💾
+# Olá visitante! Bem-vindo(a) ao meu GitHub! Eu me chamo Diego H. Rodrigues 💾
 
 ![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=diegorodrigues76&show_icons=true&theme=midnight-purple)
 
